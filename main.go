@@ -1,3 +1,6 @@
+// File explaining the basic flow of the system working on the basis of event driven approach
+// @author Shahrukh
+// @email skhan@salucro.com
 package main
 
 import (
